@@ -12,15 +12,15 @@ D:/Incubyte Systems/Automation_Assessment/
 │   ├── e2e/
 │   │   └── BDD/                        
 │   │      	└── Magento/
-|	|		|	└── magentoStepDef.js
+|	 |		|	└── magentoStepDef.js
 │   │   	│
 │   │   	└── Mageneto.feature                    
 │   │      
 │   │
 │   ├── reports\html/                               
 │   │   └── asserts
-|	|	├── videos
-|	|	└── index.html
+|	 |	├── videos
+|	 |	└── index.html
 │   │
 │   ├── support/                           
 │   │   ├── pageObject/
@@ -28,13 +28,13 @@ D:/Incubyte Systems/Automation_Assessment/
 │   │   │   └── RegistrationPage.js            
 │   │   └── selectors/                   
 │   │   |    ├── homePageSelectors.js                   
-│	|	|    └── registrationPageSelectors.js              
-│   │	|
-|	|	└── commands.js
-│   |   ├── e2e.js                   
-│   |   └── index.js       
-|	|
-|	|
+│	 |	  |    └── registrationPageSelectors.js              
+│   │	  |
+|	 |	  └── commands.js
+│   |         ├── e2e.js                   
+│   |         └── index.js       
+|	 |
+|	 |
 │   └── utils/
 │   |   └── dataGenerator.ts                   
 │   └── videos                               
